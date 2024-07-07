@@ -869,6 +869,7 @@ h3.my-profession
 .port:hover{
     opacity: 1;
     border: 2px solid var(--skin-color);
+    cursor: not-allowed;
 } 
 
 .button-7 a{
